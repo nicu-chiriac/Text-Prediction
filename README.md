@@ -21,4 +21,4 @@ This project is a text prediction, meaning the model has to predict which text o
 
 ### The main steps in this project are : text pre-processing, feature exraction, dictionary associations, model training,validation and test. 
 
-#### A more detalied explanation is found in the "Predictie SII Chiriac Nicu Manuel.docs" file (romanian language)
+#### A more detalied explanation is found in the "Predictie SII Chiriac Nicu Manuel.docx" file (romanian language)
